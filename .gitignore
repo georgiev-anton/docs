@@ -1,0 +1,6 @@
+.idea
+     #rahul-office account
+Host github.com-pesonal
+     HostName github.com
+     User git
+     IdentityFile ~/.ssh/personal-github
